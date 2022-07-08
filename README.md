@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/BoSin98117/<OWNER>/<OWNER>/readme_header.png "Header")]([https://some-url.dev/](https://www.cineplex.com/Theatre/cineplex-cinemas-strawberry-hill))
+[![Header](https://raw.githubusercontent.com/BoSin98117/<OWNER>/<OWNER>/readme_header.png "Header")](https://www.google.com/)
 ### Hi there 👋
 
 <!--
