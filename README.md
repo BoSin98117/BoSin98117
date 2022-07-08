@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/BoSin98117/<OWNER>/<OWNER>/readme_header.png "Header")](https://www.google.com/)
+[![Header](https://images.photowall.com/products/60742/palm-trees-on-white-beach.jpg?h=699&q=85 "Header")](https://www.google.com/)
 ### Hi there 👋
 
 <!--
