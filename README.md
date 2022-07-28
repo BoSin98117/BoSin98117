@@ -30,5 +30,6 @@ Hello 👋, I'm Bo.  I am a full-stack developer currently residing in Vancouver
 
 
 
-### Languages and tools:
+### Skills:
+#### Languages
 
