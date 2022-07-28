@@ -30,6 +30,29 @@ Hello 👋, I'm Bo.  I am a full-stack developer currently residing in Vancouver
 
 
 
-### Skills:
-#### Languages
+### SKILLS:
+#### LANGUAGES
+  - Python
+  - Java
+  - JavaScript
+  - HTML
+  - CSS
+  - C++
 
+#### FRAMWORKS
+  - Node.js
+  - React
+  - Express
+
+#### METHODOLOGIES
+  - Object Oriented Programming
+  - Pair Programming
+  - REST Api's
+  
+#### DATABASES
+  - MySQL
+  - MongoDB
+
+#### VERSION CONTROL
+  - Git
+  - GitHub
