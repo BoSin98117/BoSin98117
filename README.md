@@ -30,7 +30,7 @@ Hello 👋, I'm Bo.  I am a full-stack developer currently residing in Vancouver
 
 
 
-### SKILLS:
+## SKILLS:
 #### LANGUAGES
   Python > Java > JavaScript > HTML > CSS > C++
 
