@@ -15,7 +15,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" />  
-</div></td><td valign="top" width="33%">
+</div></td><td valign="top" width="50%">
 
 ### Backend  
 <div align="center">  
@@ -32,7 +32,12 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
-</div></td><td valign="top" width="33%">
+</div></td><td valign="top" width="50%">
+
+
+
+
+
 
 <!--
 **BoSin98117/BoSin98117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
