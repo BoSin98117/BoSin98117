@@ -1,8 +1,9 @@
 
-  
-# Hi there 👋 I'm [Bo](https://samujjwaal.me)  
+  <div align="center">
+# Hi there 👋 I'm BO
+    <br>
 <img align="center" alt="GIF" src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" />
-
+  </div>
 ## My Skill Set  
 <table><tr><td valign="top" width="50%">
 
