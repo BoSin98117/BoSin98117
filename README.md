@@ -1,6 +1,6 @@
 # Hi there 👋 I'm [Bo](https://samujjwaal.me) 
 <br/>  
-
+<img align="center" alt="GIF" src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" />
 
 ## My Skill Set  
 <table><tr><td valign="top" width="50%">
@@ -40,9 +40,6 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
-<a>
-[![Gmail Badge](https://img.shields.io/badge/Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mishra.shanu15@gmail.com)](mailto:bosin98117@gmail.com)
-</a>
 </div>  
   
 
