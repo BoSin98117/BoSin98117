@@ -1,5 +1,6 @@
-# Hi there 👋 I'm [Bo](https://samujjwaal.me) 
-<br/>  
+
+  
+# Hi there 👋 I'm [Bo](https://samujjwaal.me)  
 <img align="center" alt="GIF" src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" />
 
 ## My Skill Set  
